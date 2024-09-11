@@ -5,7 +5,8 @@
 ---
 
 ## About Me
-I am a data analyst based in Berlin, with a focus on transforming data into actionable insights to drive business decisions. Passionate about q-commerce, customer segmentation, and inventory management.
+
+I am a data analyst with experience in inventory management. I enjoy the end-to-end process of transforming raw data into actionable recommendations. I also take pleasure in automating tasks to save time for more strategic decision-making and creative work. My areas of interest include inventory level optimization and customer segmentation.
 
 
 
