@@ -14,7 +14,7 @@ I am a data analyst with experience in inventory management. I enjoy the end-to-
 ## 🛠️ Skills
 - **Languages**: Python, SQL
 - **Frameworks**: Pandas, NumPy, Sci-kit Learn
-- **Tools**: Tableau, Jupyter, Git, Slack
+- **Tools**: Tableau, Jupyter, Git, Google Sheets, BigQuery, Slack
 
 ## 🌟 Projects
 
