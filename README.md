@@ -1,5 +1,5 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/aykutavci)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:aykut@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/aykut-avci)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:aykutavci89@gmail.com)
 ![Location](https://img.shields.io/badge/Location-Berlin%2C%20Germany-lightgrey?logo=googlemaps)
 
 ---
