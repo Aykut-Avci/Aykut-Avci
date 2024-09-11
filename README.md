@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aykut Avci 👋
 
-<!--
-**aykut-avci/aykut-avci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Problem Solver | Fast Learner**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here are some of my key projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Project 1: Customer Segmentation](https://github.com/aykut-avci/customer-segmentation)
+- [Project 2: Inventory Management Analysis](https://github.com/aykut-avci/inventory-management)
+
+### My Skills:
+- Python, SQL, Tableau, RFM Analysis, Data Visualization
+
+📫 **Contact Me:**
+- [LinkedIn](https://www.linkedin.com/in/aykutavci)
+- [Personal Portfolio Website](https://aykut-avci.github.io)
+
