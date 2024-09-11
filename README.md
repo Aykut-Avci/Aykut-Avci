@@ -18,6 +18,6 @@ I am a data analyst with experience in inventory management. I enjoy the end-to-
 
 ## 🌟 Projects
 
-- **[Online Retail Customer Segmentation Analysis](https://github.com/your-username/online-retail-customer-segmentation-analysis)**: Analyzed customer behavior using RFM metrics to enhance targeted marketing strategies and improve customer engagement.
-- **[Bank Marketing Subscription Prediction](https://github.com/your-username/bank-marketing-subscription-prediction)**: Developed a predictive model to forecast customer subscription likelihood for term deposits, utilizing random forest with hyper parameter tuning.
-- **[Spotify Song Recommender](https://github.com/your-username/spotify-song-recommender)**: Developed a song recommendation system that utilizes Spotify's API to collect diverse audio features from tracks and searches genre-based playlists to build a comprehensive dataset. Implements K-means clustering for song similarity analysis and provides tailored recommendations based on user input.
+- **[Online Retail Customer Segmentation Analysis](https://github.com/aykut-avci/online-retail-customer-segmentation-analysis)**: Analyzed customer behavior using RFM metrics to enhance targeted marketing strategies and improve customer engagement.
+- **[Bank Marketing Subscription Prediction](https://github.com/aykut-avci/bank-marketing-subscription-prediction)**: Developed a predictive model to forecast customer subscription likelihood for term deposits, utilizing random forest with hyper parameter tuning.
+- **[Spotify Song Recommender](https://github.com/aykut-avci/spotify-song-recommender)**: Developed a song recommendation system that utilizes Spotify's API to collect diverse audio features from tracks and searches genre-based playlists to build a comprehensive dataset. Implements K-means clustering for song similarity analysis and provides tailored recommendations based on user input.
