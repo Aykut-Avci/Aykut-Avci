@@ -1,11 +1,11 @@
 
 # Aykut Avci - Data Analyst 👋
----
+
 
 ## About Me
 I am a data analyst based in Berlin, with a focus on transforming data into actionable insights to drive business decisions. Passionate about q-commerce, customer segmentation, and inventory management.
 
----
+
 
 ## Connect with Me
 
@@ -16,7 +16,7 @@ I am a data analyst based in Berlin, with a focus on transforming data into acti
   Berlin, Germany
 </p>
 
----
+
 
 
 ## Skills
