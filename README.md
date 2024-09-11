@@ -6,7 +6,7 @@
 
 ## 📝 About Me
 
-I am a data analyst with experience in inventory management. I enjoy the end-to-end process of transforming raw data into actionable recommendations. I also take pleasure in automating tasks to save time for more strategic decision-making and creative work. My areas of interest include inventory level optimization and customer segmentation.
+I am a data analyst with experience in inventory management. I enjoy the end-to-end process of transforming raw data into actionable recommendations. I am enthusiastic about automating tasks to save time for more strategic decision-making and creative work. My areas of interest include inventory level optimization and customer segmentation.
 
 
 
