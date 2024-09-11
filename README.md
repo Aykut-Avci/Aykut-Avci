@@ -1,18 +1,23 @@
 
+# Aykut Avci - Data Analyst 👋
+---
 
-## Hi, I'm Aykut Avci 👋
+## About Me
+I am a data analyst based in Berlin, with a focus on transforming data into actionable insights to drive business decisions. Passionate about q-commerce, customer segmentation, and inventory management.
 
-I’m a Data Analyst with experience in inventory management, passionate about turning raw data into actionable insights that drive business success. I also enjoy leveraging the power of code to automate tasks, saving time for stakeholders to focus on strategic decisions and creative work. My area of interests are inventory level optimization and customer segmentation. 
+---
 
-- 🌍 Berlin, Germany  
-  
-[badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
-<div id="badges">
-<a href="https://www.linkedin.com/in/aykut-avci/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="mailto:aykutavci89@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+## Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/aykutavci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>  
+  <a href="mailto:aykut@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="30" /></a>  
+  <a href="#"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Location" height="30" width="30" /></a>  
+  Berlin, Germany
+</p>
+
+---
+
 
 ## Skills
 - **Languages**: Python, SQL
