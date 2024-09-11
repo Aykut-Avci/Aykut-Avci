@@ -11,6 +11,6 @@ Welcome to my GitHub profile! Here are some of my key projects:
 - Python, SQL, Tableau, RFM Analysis, Data Visualization
 
 📫 **Contact Me:**
-- [LinkedIn](https://www.linkedin.com/in/aykutavci)
+- [LinkedIn](https://www.linkedin.com/in/aykut-avci)
 - [Personal Portfolio Website](https://aykut-avci.github.io)
 
