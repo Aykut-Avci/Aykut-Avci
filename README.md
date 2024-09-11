@@ -5,5 +5,10 @@ I’m a Data Analyst with experience in inventory management, passionate about t
 - 🌍 Berlin, Germany  
 - 📫 [aykutavci89@gmail.com](mailto:aykutavci89@gmail.com)
 
+## Skills
+- **Languages**: Python, SQL
+- **Frameworks**: Pandas, NumPy, Sci-kit Learn
+- **Tools**: Tableau, Jupyter, Git, Slack
+
 
 
