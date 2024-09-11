@@ -3,6 +3,7 @@
 ![Location](https://img.shields.io/badge/Location-Berlin%2C%20Germany-lightgrey?logo=googlemaps)
 
 ---
+![About Me](https://img.shields.io/badge/About%20Me-Learn%20More-blueviolet)
 
 ## About Me
 
