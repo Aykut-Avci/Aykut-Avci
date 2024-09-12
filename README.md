@@ -8,19 +8,16 @@
 
 I am a data analyst with experience in inventory management. I enjoy the end-to-end process of transforming raw data into actionable recommendations. I am enthusiastic about automating tasks to save time for more strategic decision-making and creative work. My areas of interest include inventory level optimization and customer segmentation.
 
-## 🛠️ Technical Skills
-- **Languages**: Python, SQL, MySQL
-- **Libraries**: NumPy, Pandas, Scikit-Learn
-- **Tools**: Tableau, Jupyter, Google Sheets, Google BigQuery, MS Excel
+## 🛠️ Skills
 
-## 💼 Soft Skills
-- Teamwork
-- Communication
-- Problem-solving
-- Attention to detail
-- Prioritizing
-- Fast-learning
-
+| **Technical Skills**                                   | **Soft Skills**              |
+|--------------------------------------------------------|------------------------------|
+| Languages: Python, SQL, MySQL                          | Teamwork                     |
+| Libraries: NumPy, Pandas, Scikit-Learn                 | Communication                |
+| Tools: Tableau, Jupyter, Google Sheets, BigQuery, Excel| Problem-solving              |
+|                                                        | Attention to detail           |
+|                                                        | Prioritizing                 |
+|                                                        | Fast-learning                |
 
 ## 🌟 Projects
 
