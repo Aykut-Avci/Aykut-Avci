@@ -13,7 +13,7 @@ I am a data analyst with experience in inventory management. I enjoy the end-to-
 - **Libraries**: NumPy, Pandas, Scikit-Learn
 - **Tools**: Tableau, Jupyter, Google Sheets, Google BigQuery, MS Excel
 
-## 🌟 Soft Skills
+## 💼 Soft Skills
 - Teamwork
 - Communication
 - Problem-solving
