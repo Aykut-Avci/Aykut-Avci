@@ -6,8 +6,9 @@
 
 ## 📝 About Me
 
-I am a data analyst with experience in inventory management. I enjoy the end-to-end process of transforming raw data into actionable recommendations. I am enthusiastic about automating tasks to save time for more strategic decision-making and creative work. My areas of interest include inventory level optimization and customer segmentation.
+Hey there! 👋 I'm a data analyst with hands-on experience in inventory management. What I enjoy most about this job is transforming raw data into actionable insights and being involved in every step of the process—from data cleaning to creating reports that drive business decisions. I'm also passionate about automating workflows to make time for more strategic problem-solving.
 
+When I'm not working with data, I love reading about psychology, listening to electronic music 🎧, or hitting the gym 💪. I’m always eager to learn new things, especially in the areas of customer segmentation and inventory optimization!
 ## 🛠️ Skills
 
 **Technical Skills**: Python, SQL, MySQL, NumPy, Pandas, Scikit-Learn, Tableau, Jupyter, Google Sheets, Google BigQuery, MS Excel
