@@ -6,9 +6,10 @@
 
 ## 📝 About Me
 
-Hey there! 👋 I'm a data analyst with hands-on experience in inventory management. What I enjoy most about this job is transforming raw data into actionable insights and being involved in every step of the process—from data cleaning to creating reports that drive business decisions. I'm also passionate about automating workflows to make time for more strategic problem-solving.
+Hey there! 👋 I’m a data analyst with hands-on experience in inventory management. What I find most fulfilling about my work is the satisfaction of completing projects and seeing how my analyses lead to actionable recommendations that can drive decision-making. I enjoy the entire process—from cleaning and transforming data to crafting insights and generating recommendations.
 
-When I'm not working with data, I love reading about psychology, listening to electronic music 🎧, or hitting the gym 💪. I’m always eager to learn new things, especially in the areas of customer segmentation and inventory optimization!
+Outside of data, I’m passionate about reading psychology, enjoying electronic music 🎧, and working out at the gym 💪. I’ve recently started diving back into personal projects and am eager to explore new areas in customer segmentation and inventory optimization
+
 ## 🛠️ Skills
 
 **Technical Skills**: Python, SQL, MySQL, NumPy, Pandas, Scikit-Learn, Tableau, Jupyter, Google Sheets, Google BigQuery, MS Excel
