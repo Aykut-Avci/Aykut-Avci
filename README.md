@@ -14,7 +14,7 @@ Outside of data, I’m passionate about reading psychology, enjoying electronic 
 
 **Technical Skills**: Python, SQL, MySQL, NumPy, Pandas, Scikit-Learn, Tableau, Jupyter, Google Sheets, Google BigQuery, MS Excel
 
-**Soft Skills**: Teamwork, Proactivity, Problem-solving, Attention to detail, Prioritizing, Fast-learning
+**Soft Skills**: Teamwork, Proactivity, Problem-solving, Attention to detail, Prioritizing, Adabtability
 
 
 ## 🌟 Projects
