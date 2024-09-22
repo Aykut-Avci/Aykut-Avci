@@ -25,3 +25,5 @@ Outside of data, I’m passionate about reading psychology, enjoying electronic 
 
 - **[Bank Marketing Subscription Prediction](https://github.com/aykut-avci/bank-marketing-subscription-prediction)**: Developed a predictive model to forecast customer subscription likelihood for term deposits, utilizing random forest with hyper parameter tuning.
 - **[Spotify Song Recommender](https://github.com/aykut-avci/spotify-song-recommender)**: Developed a song recommendation system that utilizes Spotify's API to collect diverse audio features from tracks and searches genre-based playlists to build a comprehensive dataset. Implements K-means clustering for song similarity analysis and provides tailored recommendations based on user input.
+- **HR Analytics Dashboard**
+![HR Dashboard](https://raw.githubusercontent.com/aykut-avci/Tableau-Projects/refs/heads/main/HR%20_%20Summary.png?token=GHSAT0AAAAAACWK25UBY2VWLRPKJLYFZB5EZXPMKSA)
